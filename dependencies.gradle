@@ -1,0 +1,13 @@
+ext {
+    // Testing
+    jUnitVersion = '5.6.1'
+    assertJCoreVersion = '3.15.0'
+
+    // Test dependencies
+    testDependencies = [
+            junitJupiterApi  : "org.junit.jupiter:junit-jupiter-api:${jUnitVersion}",
+            junitJupiterEngine  : "org.junit.jupiter:junit-jupiter-engine:${jUnitVersion}",
+            assertJ: "org.assertj:assertj-core:${assertJCoreVersion}"
+    ]
+
+}
