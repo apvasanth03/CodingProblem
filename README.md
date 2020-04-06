@@ -2,7 +2,7 @@
 
 Solution to [Daily Coding Problem](https://www.dailycodingproblem.com/) in Kotlin.
 
-![CI](https://github.com/apvasanth03/CodingProblem/workflows/CI/badge.svg)
+[![CI](https://github.com/apvasanth03/CodingProblem/workflows/CI/badge.svg)](https://github.com/apvasanth03/CodingProblem/actions)
 
 ## Problem 1
 
