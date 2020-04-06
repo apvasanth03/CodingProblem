@@ -13,7 +13,7 @@ Solution:
 https://www.youtube.com/watch?v=XKu_SEDAykw
 https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
  */
-fun hasPairWithSum(arr: Array<Int>, sum: Int): Boolean {
+fun hasPairWithSum(arr: List<Int>, sum: Int): Boolean {
     val numberSet = HashSet<Int>()
     for (number in arr) {
         val remaining = sum - number
