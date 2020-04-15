@@ -24,6 +24,10 @@ test {
 
 // Detekt Configuration
 tasks.detekt.jvmTarget = "1.8"
+detekt {
+    config = files("config/detekt/detekt.yml")
+    buildUponDefaultConfig = true
+}
 
 // Dependencies.
 repositories {
