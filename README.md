@@ -1,19 +1,13 @@
-# Daily Coding Problem
+# Coding Problem
 
-Solution to [Daily Coding Problem](https://www.dailycodingproblem.com/) in Kotlin.
+Solution to [LeetCode Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) in Kotlin.
 
 [![CI](https://github.com/apvasanth03/CodingProblem/workflows/CI/badge.svg)](https://github.com/apvasanth03/CodingProblem/actions)
 
-## Problem 1
+## Easy Collection
 
-This problem was recently asked by Google.
+### Array
 
-Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
-
-For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
-
-Bonus: Can you do this in one pass?
-
-[Solution](https://github.com/apvasanth03/CodingProblem/src/main/kotlin/com/vasanth/codingproblem/set/easy/HasPairWithSum.kt)
+1. [Remove Duplicates from Sorted Array](https://github.com/apvasanth03/CodingProblem/documentation/leetcode/topquestions/easy/array/remove_duplicates_from_sorted_array.md)
 
 
