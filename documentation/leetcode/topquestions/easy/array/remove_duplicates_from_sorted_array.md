@@ -2,7 +2,7 @@
 
 [LeetCode Question Link](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
 
-[Solution](https://github.com/apvasanth03/CodingProblem/src/main/kotlin/com/vasanth/codingproblem/leetcode/topquestions/easy/array/RemoveDuplicates.kt)
+[Solution](https://github.com/apvasanth03/CodingProblem/blob/master/src/main/kotlin/com/vasanth/codingproblem/leetcode/topquestions/easy/array/RemoveDuplicates.kt)
 
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 

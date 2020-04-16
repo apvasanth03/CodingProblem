@@ -1,13 +1,23 @@
 # Coding Problem
 
-Solution to [LeetCode Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) in Kotlin.
+Solution to coding interview problems.
 
-[![CI](https://github.com/apvasanth03/CodingProblem/workflows/CI/badge.svg)](https://github.com/apvasanth03/CodingProblem/actions)
+## Essential coding interview questions
 
-## Easy Collection
+[CS Dojo Link](https://www.udemy.com/course/11-essential-coding-interview-questions/)
 
-### Array
+#### Array
 
-1. [Remove Duplicates from Sorted Array](https://github.com/apvasanth03/CodingProblem/documentation/leetcode/topquestions/easy/array/remove_duplicates_from_sorted_array.md)
+1. [Most frequently occurring item in an array](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/essentialquestions/array/most_frequently_occurring_item_in_an_array.md)
+
+## LeetCode Top Interview Questions
+
+[LeetCode Link](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
+
+### Easy Collection
+
+#### Array
+
+1. [Remove Duplicates from Sorted Array](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/remove_duplicates_from_sorted_array.md)
 
 

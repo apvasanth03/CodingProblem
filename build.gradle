@@ -40,6 +40,7 @@ dependencies {
 
     // Test Dependencies
     testImplementation testDependencies.junitJupiterApi
+    testImplementation testDependencies.junitJupiterParams
     testRuntimeOnly testDependencies.junitJupiterEngine
     testImplementation testDependencies.assertJ
 }

@@ -5,9 +5,10 @@ ext {
 
     // Test dependencies
     testDependencies = [
-            junitJupiterApi  : "org.junit.jupiter:junit-jupiter-api:${jUnitVersion}",
-            junitJupiterEngine  : "org.junit.jupiter:junit-jupiter-engine:${jUnitVersion}",
-            assertJ: "org.assertj:assertj-core:${assertJCoreVersion}"
+            junitJupiterApi   : "org.junit.jupiter:junit-jupiter-api:${jUnitVersion}",
+            junitJupiterParams: "org.junit.jupiter:junit-jupiter-params:${jUnitVersion}",
+            junitJupiterEngine: "org.junit.jupiter:junit-jupiter-engine:${jUnitVersion}",
+            assertJ           : "org.assertj:assertj-core:${assertJCoreVersion}"
     ]
 
 }
