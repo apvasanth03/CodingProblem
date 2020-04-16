@@ -6,7 +6,7 @@
 
 Given two sorted arrays, find the common elements in two sorted array.
 
-Example:
+**Example:**
 
 ```
 Input : arr1[] = {1, 3, 4, 5, 7}
