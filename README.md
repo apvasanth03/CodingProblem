@@ -17,6 +17,7 @@ Solution to coding interview problems.
 #### String
 
 1. [First Unique Character in a String](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/essentialquestions/string/first_unique_character_in_a_string.md)
+2. [One Away Strings](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/essentialquestions/string/one_away_strings.md)
 
 ## LeetCode Top Interview Questions
 
