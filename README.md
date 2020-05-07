@@ -31,5 +31,6 @@ Solution to coding interview problems.
 2. [Rotate Array](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/rotate_array.md)
 3. [Contains Duplicate](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/contains_duplicate.md)
 4. [Single Number](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/single_number.md)
+5. [Intersection of Two Arrays](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/intersection_of_two_arrays.md)
 
 
