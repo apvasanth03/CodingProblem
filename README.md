@@ -33,5 +33,6 @@ Solution to coding interview problems.
 4. [Single Number](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/single_number.md)
 5. [Intersection of Two Arrays](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/intersection_of_two_arrays.md)
 6. [Plus One](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/plus_one.md)
+6. [Move Zeroes](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/move_zeroes.md)
 
 
