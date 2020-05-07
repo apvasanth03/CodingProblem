@@ -29,5 +29,6 @@ Solution to coding interview problems.
 
 1. [Remove Duplicates from Sorted Array](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/remove_duplicates_from_sorted_array.md)
 2. [Rotate Array](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/rotate_array.md)
+3. [Contains Duplicate](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/array/contains_duplicate.md)
 
 
