@@ -47,5 +47,6 @@ Solution to coding interview problems.
 5. [String to Integer (atoi)](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/string_to_integer.md)
 6. [Implement strStr()](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/str_str.md)
 7. [Count and Say](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/count_and_say.md)
+8. [Longest Common Prefix](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/longest_common_prefix.md)
 
 
