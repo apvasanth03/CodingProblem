@@ -44,5 +44,6 @@ Solution to coding interview problems.
 2. [Reverse Integer](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/reverse_integer.md)
 3. [Valid Anagram](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/valid_anagram.md)
 4. [Valid Palindrome](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/valid_palindrome.md)
+5. [String to Integer (atoi)](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/string_to_integer.md)
 
 
