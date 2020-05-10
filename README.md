@@ -42,5 +42,6 @@ Solution to coding interview problems.
 
 1. [Reverse String](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/reverse_string.md)
 1. [Reverse Integer](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/reverse_integer.md)
+1. [Valid Anagram](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/valid_anagram.md)
 
 
