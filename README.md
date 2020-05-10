@@ -41,7 +41,8 @@ Solution to coding interview problems.
 #### Strings
 
 1. [Reverse String](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/reverse_string.md)
-1. [Reverse Integer](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/reverse_integer.md)
-1. [Valid Anagram](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/valid_anagram.md)
+2. [Reverse Integer](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/reverse_integer.md)
+3. [Valid Anagram](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/valid_anagram.md)
+4. [Valid Palindrome](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/valid_palindrome.md)
 
 
