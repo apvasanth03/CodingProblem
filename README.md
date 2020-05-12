@@ -49,4 +49,8 @@ Solution to coding interview problems.
 7. [Count and Say](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/count_and_say.md)
 8. [Longest Common Prefix](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/strings/longest_common_prefix.md)
 
+#### Linked List
+
+1. [Delete Node in a Linked List](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/linkedlist/delete_node_linked_list.md)
+
 
