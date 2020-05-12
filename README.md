@@ -52,5 +52,6 @@ Solution to coding interview problems.
 #### Linked List
 
 1. [Delete Node in a Linked List](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/linkedlist/delete_node_linked_list.md)
+2. [Remove Nth Node From End of List](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/linkedlist/remove_nth_node_from_end_of_list.md)
 
 
