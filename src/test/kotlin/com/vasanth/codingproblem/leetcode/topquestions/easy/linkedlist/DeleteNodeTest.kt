@@ -28,8 +28,7 @@ class DeleteNodeTest {
         lateinit var nodeToDelete: ListNode
         var prev: ListNode? = null
         for (num in list) {
-            val node =
-                ListNode(num)
+            val node = ListNode(num)
             if (prev == null) {
                 head = node
             } else {
