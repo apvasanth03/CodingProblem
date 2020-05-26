@@ -58,4 +58,8 @@ Solution to coding interview problems.
 5. [Palindrome Linked List](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/linkedlist/palindrome_linked_list.md)
 6. [Linked List Cycle](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/linkedlist/linked_list_cycle.md)
 
+#### Trees
+
+1. [Maximum Depth of Binary Tree](https://github.com/apvasanth03/CodingProblem/blob/master/documentation/leetcode/topquestions/easy/tree/maximum_depth_of_binary_tree.md)
+
 
