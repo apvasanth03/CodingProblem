@@ -63,5 +63,6 @@ Solution to coding interview problems.
 1. [Maximum Depth of Binary Tree](documentation/leetcode/topquestions/easy/tree/maximum_depth_of_binary_tree.md)
 2. [Validate Binary Search Tree](documentation/leetcode/topquestions/easy/tree/validate_binary_search_tree.md)
 3. [Symmetric Tree](documentation/leetcode/topquestions/easy/tree/symmetric_tree.md)
+4. [Binary Tree Level Order Traversal](documentation/leetcode/topquestions/easy/tree/binary_tree_level_order_traversal.md)
 
 
