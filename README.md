@@ -66,3 +66,7 @@ Solution to coding interview problems.
 4. [Binary Tree Level Order Traversal](documentation/leetcode/topquestions/easy/tree/binary_tree_level_order_traversal.md)
 
 
+## Other Interview Questions
+
+1. [Cumulative Frequency of Data Classes](documentation/otherquestions/cumulative_frequency_of_data_classes.md)
+
